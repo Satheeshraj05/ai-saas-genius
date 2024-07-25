@@ -1,5 +1,6 @@
 "use client";
 
+import Typewriter from 'typewriter-effect';
 import TypewriterComponent from "typewriter-effect";
 import Link from "next/link";
 import { useAuth } from "@clerk/nextjs";
